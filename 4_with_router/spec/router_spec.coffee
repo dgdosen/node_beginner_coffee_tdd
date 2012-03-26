@@ -8,3 +8,7 @@ describe "router", ->
   it "should not respond to router.foo", ->
     expect(router.foo).not.toBeDefined()
 
+  it "should reply with route information", ->
+    expect(router.route("home")).toContain("home")
+
+
