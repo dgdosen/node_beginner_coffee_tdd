@@ -1,0 +1,9 @@
+/* TODO: dev */
+/* mongo: mongod --rest */
+web: nodemon server.coffee
+jasmine: jasmine-node --color --coffee --autotest --verbose spec
+
+
+/* TODO: prod */
+/* coffee: cake watch */
+/* web: node server.js */
