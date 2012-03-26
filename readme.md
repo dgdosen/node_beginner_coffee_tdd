@@ -1,8 +1,8 @@
 # Embracing the kata
 
-I really like how node opens up the possibilities to create single-page, real-time app that can share information between users.
+I really like how node opens up the possibilities to create single-page, real-time apps that can share information between users.
 
-I also like playing with rspec-like jasmine will working through samples with node, and did that with nodebeginner.org samples. 
+I also like playing with rspec-like jasmine while working through samples with node and developing node apps via tdd.  I did that with nodebeginner.org samples. 
 
 The result is what you see here - 
 
