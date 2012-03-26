@@ -1,4 +1,4 @@
-* Embracing the kata
+# Embracing the kata
 
 I really like how node opens up the possibilities to create single-page, real-time app that can share information between users.
 
